@@ -1,10 +1,3 @@
----
-layout: article
-title: 扩展欧几里德算法
----
-
-
-<font face="宋体" size=2 color="black" >  
 
 ## 扩展欧几里得算法
 ####  问题描述
